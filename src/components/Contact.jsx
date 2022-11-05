@@ -49,7 +49,7 @@ const Contact = () => {
           </label>
         </div>
         
-        <button type="submit" id="btn_submit" className="w-full bg-[#1570EF] text-white py-3 rounded-lg mb-24">
+        <button type="submit" id="btn__submit" className="w-full bg-[#1570EF] text-white py-3 rounded-lg mb-24">
           Send message
         </button>
       </form>
